@@ -7,14 +7,13 @@ body{
 #bros-img{
    width: 150px;
     border-radius: 50%;
-    border: 6px solid #EFB0C9;
+    border: 6px solid #EFB0C9; 
 }
 #b-age {
-   
     background: #EFB0C9;
     padding: 5px 10px;
     border-radius: 5px;
-    margin: 5px 0 10px 0;
+    margin: 5px 0 10px 0;  
 }
 
 #b-date {
